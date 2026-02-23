@@ -19,6 +19,7 @@ This academic project was built to demonstrate a solid understanding of Object-O
 1. Clone the repository to your machine:
 ```bash
 git clone https://github.com/kirill-galagan-dev/Polit-Man-Java.git
+```
 
 
 <img width="751" height="1013" alt="Screenshot 2026-02-24 001328" src="https://github.com/user-attachments/assets/b018876b-9004-4ac6-bf3f-7254980a3538" />
